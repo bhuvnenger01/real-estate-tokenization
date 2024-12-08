@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "@web3-onboard/core": "^2.23.0",
+    "@web3-onboard/injected-wallets": "^2.11.2",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.17",
+    "react-bootstrap": "^2.10.6",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
